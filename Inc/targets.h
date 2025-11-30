@@ -2360,7 +2360,7 @@
 #define PHASE_B_COMP LL_COMP_INPUT_MINUS_IO2 // pb7
 #define PHASE_C_COMP LL_COMP_INPUT_MINUS_IO3 // pa2
 #define DEAD_TIME 140
-#define MILLIVOLT_PER_AMP 40 // Should be 10 but x4 for combined value in betaflight
+#define MILLIVOLT_PER_AMP 10
 #define CURRENT_OFFSET 0
 #define TARGET_VOLTAGE_DIVIDER 110
 #define USE_SERIAL_TELEMETRY
